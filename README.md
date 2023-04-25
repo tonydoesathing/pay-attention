@@ -1,5 +1,5 @@
 # PAY ATTENTION
-A digital sculpture reflecting upon my experience with ADHD in the classroom.
+A digital sculpture reflecting the experience of living with ADHD in the classroom.
 
 Painted in VR using [OpenBrush](https://openbrush.app/)
 
